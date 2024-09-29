@@ -1,16 +1,17 @@
-## Hi there 👋
+## About Me
+I am a full stack developer (MERN) focused on React with 3 years of experience.
 
-<!--
-**hkeva/hkeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+1. Currently, I am working on a freelance project quite similar to an e-commerce app but with changed ideas.
+2. Ask me about anything related to the MERN stack and related technologies.
 
-Here are some ideas to get you started:
+## Fun Projects
+- [My Board](https://my-board-two.vercel.app/)  
+  *Note: This is not a mobile-friendly app, and there is no backend connected, so data won't be saved.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hobby
+- Photography: [View my work](https://unsplash.com/@humayra_eva)
+
+## Connect with Me
+- [Medium](https://medium.com/@humayraeva)
+- [Facebook](https://www.facebook.com/humayraevaa)
+- [Instagram](https://www.instagram.com/humayraeva/)
