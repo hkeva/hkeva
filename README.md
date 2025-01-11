@@ -10,7 +10,8 @@ Feel free to ask me about anything related to the **MERN stack** and related tec
   > *Note: The repository's README.md file contains a detailed explanation.*  
 
 
-- **[My Board](https://my-board-two.vercel.app/)**: A drag-and-drop app that also features background-changing options. 
+- **[My Board](https://my-board-two.vercel.app/)**: A drag-and-drop app that also features background-changing options.
+  - [Link to Repo](https://github.com/hkeva/My_Board)
   > *Note: This is not a mobile-friendly app, and there is no backend connected, so data won't be saved.*
 
 ### Hobby
