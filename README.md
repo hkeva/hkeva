@@ -4,6 +4,12 @@ I am a **full stack developer (MERN)** focused on **React**, with **3 years of e
 Feel free to ask me about anything related to the **MERN stack** and related technologies!
 
 ### Fun Projects
+- **[PayGuard System](https://payguard-system.netlify.app/)**: PayGuard is a very simple payment and document management system with user and admin dashboards.  
+  - [Link to Frontend Repo](https://github.com/hkeva/payguard-client)
+  - [Link to Backend Repo](https://github.com/hkeva/payguard-server)
+  > *Note: The repository's README.md file contains a detailed explanation.*  
+
+
 - **[My Board](https://my-board-two.vercel.app/)**: A drag-and-drop app that also features background-changing options. 
   > *Note: This is not a mobile-friendly app, and there is no backend connected, so data won't be saved.*
 
