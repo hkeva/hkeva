@@ -15,7 +15,7 @@ Feel free to ask me about anything related to the **MERN stack** and related tec
   > *Note: This is not a mobile-friendly app, and there is no backend connected, so data won't be saved.*
 
 ### Hobby
-I have a passion for **photography**. Check out my work on [Unsplash](https://unsplash.com/@humayra_eva).
+I have a passion for **photography**. Check out my work on [Pexels](https://www.pexels.com/@humayraeva/).
 
 ### Connect with Me
 - [Medium](https://medium.com/@humayraeva)
