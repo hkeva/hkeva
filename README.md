@@ -12,7 +12,7 @@ React, TypeScript, Node.js, Express.js, MongoDB, MySQL, Redux Toolkit
 
 ### Professional Projects
 
-**Digital Asset Management System (BJIT Limited)**  
+**Digital Asset Management System**  
 🔗 https://market.openpost.co.jp/
 
 **Xamify – Smart Computer Based Test System (SaaS)**  
